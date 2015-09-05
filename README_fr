@@ -2,11 +2,19 @@ Programme pour jouer de la musique sur Un Arduino avec un buzzer et une connecti
 
 Par default le port du buzzer est le 8
 
-pour generer le makefile executer:
+Pour generer le makefile executer:
 ruby scripts/make.rb
 
-pour compiler et uploader le programme executer:
+Pour compiler et uploader le programme executer:
 make upload
+
+##########
+#  INFO  #
+##########
 
 Consulter le projet arduino-beeper-controller pour le controleur de musique
 https://github.com/johann-lecocq/arduino-beeper-controller
+
+
+Pour la generation du makefile consultez le projet arduino-makefile
+https://github.com/takanuva/arduino-makefile

@@ -2,11 +2,19 @@ A program for play music on Arduino with a buzzer and a serial connection
 
 By default the buzzer's pin is the 8
 
-for makefile generation run:
+For makefile generation run:
 ruby scripts/make.rb
 
-for compilation and upload run:
+For compilation and upload run:
 make upload
+
+##########
+#  INFO  #
+##########
 
 See the arduino-beeper-controller project for music controller
 https://github.com/johann-lecocq/arduino-beeper-controller
+
+
+For Makefile Generation see the arduino-makefile project
+https://github.com/takanuva/arduino-makefile

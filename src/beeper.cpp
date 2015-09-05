@@ -1,3 +1,8 @@
+/*
+Johann Lecocq(johann-lecocq.fr)
+GNU GENERAL PUBLIC LICENSE version 2
+version 1.0
+*/
 #include <Arduino.h>
 
 #include "beeper.h"
